@@ -15,3 +15,8 @@ flask run
 
 Reproduced example 2-2 to add dynamic routes:  
 ![alt text](imgs/activity2.jpg)  
+
+## Activity 3
+Added a navigation bar, "Hello Chenyan!" as title, and timestamp.  
+
+![alt text](imgs/activity3.jpg)  
