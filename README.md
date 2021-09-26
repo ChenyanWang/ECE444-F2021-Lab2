@@ -20,3 +20,27 @@ Reproduced example 2-2 to add dynamic routes:
 Added a navigation bar, "Hello Chenyan!" as title, and timestamp.  
 
 ![alt text](imgs/activity3.jpg)  
+
+## Activity 4
+
+Created a form for name and UofT email.  
+
+### Activity 4-2
+Screenshot after running the project.  
+
+![alt text](imgs/activity4_2.jpg)  
+
+### Activity 4-3
+Screenshot after filling first name and UofT email address.  
+
+![alt text](imgs/activity4_3.jpg)  
+
+### Activity 4-4
+Screenshot after filling first name and last name in 1st field, and first name in 2nd field.  
+
+![alt text](imgs/activity4_4.jpg)  
+
+### Activity 4-5
+Screenshot after filling first name and last name in 1st field, and non-UofT email in 2nd field.  
+
+![alt text](imgs/activity4_5.jpg)  
