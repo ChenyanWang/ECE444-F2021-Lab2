@@ -13,3 +13,5 @@ To run the flask server, instead of running "python hello.py", I ran the followi
 export FLASK_APP=hello.py  
 flask run  
 
+Reproduced example 2-2 to add dynamic routes:  
+![alt text](imgs/activity2.jpg)  
